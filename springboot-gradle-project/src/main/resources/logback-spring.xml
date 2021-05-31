@@ -6,13 +6,15 @@
 	<springProfile name="local">
 		<property resource="globals-local.properties" />
 	</springProfile>
+	<!-- 
 	<springProfile name="release">
 		<property resource="globals-release.properties" />
 	</springProfile>
+	 -->
 	
 	<!--Environment 내의 프로퍼티들을 개별적으로 설정할 수도 있다. -->
 	<springProperty scope="context" name="LOG_LEVEL" source="logging.level.root" />
-	<springProperty scope="context" name="JHIT_LOG_LEVEL" source="logging.level.com.jhit" />
+	<springProperty scope="context" name="SpringBoot_LOG_LEVEL" source="logging.level.com.springboot" />
 	
 	<!-- log file path -->
 	<property name="LOG_PATH" value="${log.config.filepath}" /> 
@@ -85,7 +87,7 @@
 	</root> 
 	
 	<!-- 특정 패키지 로깅레벨 설정 -->
-	<logger name="com.jhit" level="${JHIT_LOG_LEVEL}" additivity="false">
+	<logger name="com.springboot" level="${SpringBoot_LOG_LEVEL}" additivity="false">
 		<appender-ref ref="CONSOLE" />
 		<appender-ref ref="FILE" />
 		<appender-ref ref="Error" />
