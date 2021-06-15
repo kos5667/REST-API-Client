@@ -27,7 +27,8 @@ server.port: 8080
 
 --- #local 환경 
 spring: 
-  profiles: local 
+  profiles: local
+   
 logging: 
   level: 
     root: error
