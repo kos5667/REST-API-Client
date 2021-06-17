@@ -6,11 +6,12 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLEncoder;
-import java.util.Base64;
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Base64.Decoder;
 
+import org.apache.commons.codec.binary.Base64;
 import org.apache.commons.io.FileUtils;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
@@ -83,10 +84,12 @@ public class Call_TEST {
         
         Object obj = new JSONParser().parse(sb.toString());
         JSONObject responseJson = (JSONObject) obj;
-
         
-    	Decoder decoder = Base64.getDecoder();
-    	byte[] byteFile = decoder.decode((String) responseJson.get("file"));
+        
+		@SuppressWarnings("unchecked")
+		Map<String, Object> resultMap = (Map<String, Object>) responseJson.get("result");
+        
+        byte[] byteFile = Base64.decodeBase64((String) resultMap.get("file"));
     	
     	
     	File file = new File("S:\\git\\repository\\springboot-gradle-project\\src\\main\\webapp\\resources\\img\\"+fileName);

@@ -23,7 +23,7 @@ spring:
       enabled: true
       
 #내장 서버 포트
-server.port: 8080
+server.port: 5000
 
 --- #local 환경 
 spring: 
