@@ -1,0 +1,140 @@
+INFO  21-06-18 10:58:13[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 5080 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 10:58:13[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 10:58:13[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 10:58:14[restartedMain] [Application:61] - Started Application in 1.386 seconds (JVM running for 2.006)
+INFO  21-06-18 10:59:20[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 5080 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 10:59:20[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 10:59:20[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 10:59:20[restartedMain] [Application:61] - Started Application in 0.259 seconds (JVM running for 68.12)
+DEBUG 21-06-18 10:59:22[http-nio-5000-exec-1] [MainController:15] - Start Main...
+INFO  21-06-18 10:59:37[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 5080 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 10:59:37[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 10:59:37[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 10:59:37[restartedMain] [Application:61] - Started Application in 0.251 seconds (JVM running for 85.153)
+DEBUG 21-06-18 10:59:38[http-nio-5000-exec-1] [MainController:15] - Start Main...
+INFO  21-06-18 10:59:58[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 5080 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 10:59:58[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 10:59:58[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 10:59:58[restartedMain] [Application:61] - Started Application in 0.248 seconds (JVM running for 106.376)
+DEBUG 21-06-18 10:59:59[http-nio-5000-exec-1] [MainController:15] - Start Main...
+DEBUG 21-06-18 11:00:00[http-nio-5000-exec-2] [MainController:15] - Start Main...
+DEBUG 21-06-18 11:00:50[http-nio-5000-exec-3] [MainController:15] - Start Main...
+INFO  21-06-18 11:00:51[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 5080 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 11:00:51[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 11:00:51[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 11:00:51[restartedMain] [Application:61] - Started Application in 0.227 seconds (JVM running for 159.059)
+DEBUG 21-06-18 11:00:56[http-nio-5000-exec-1] [MainController:15] - Start Main...
+INFO  21-06-18 11:01:54[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 5080 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 11:01:54[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 11:01:54[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 11:01:54[restartedMain] [Application:61] - Started Application in 0.228 seconds (JVM running for 222.135)
+DEBUG 21-06-18 11:01:55[http-nio-5000-exec-1] [MainController:15] - Start Main...
+INFO  21-06-18 11:02:41[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 5080 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 11:02:41[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 11:02:41[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 11:02:42[restartedMain] [Application:61] - Started Application in 0.223 seconds (JVM running for 269.789)
+DEBUG 21-06-18 11:02:43[http-nio-5000-exec-1] [MainController:16] - Start Main...
+INFO  21-06-18 11:09:07[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 11:09:07[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 11:09:07[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 11:09:08[restartedMain] [Application:61] - Started Application in 1.532 seconds (JVM running for 2.123)
+DEBUG 21-06-18 11:09:15[http-nio-5000-exec-1] [MainController:16] - Start Main...
+INFO  21-06-18 11:12:42[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 11:12:42[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 11:12:42[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 11:12:43[restartedMain] [Application:61] - Started Application in 0.329 seconds (JVM running for 216.618)
+INFO  21-06-18 11:12:46[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 11:12:46[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 11:12:46[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 11:12:46[restartedMain] [Application:61] - Started Application in 0.281 seconds (JVM running for 220.442)
+DEBUG 21-06-18 11:14:35[http-nio-5000-exec-1] [MainController:16] - Start Main...
+DEBUG 21-06-18 11:14:52[http-nio-5000-exec-2] [MainController:16] - Start Main...
+DEBUG 21-06-18 11:14:54[http-nio-5000-exec-3] [MainController:16] - Start Main...
+DEBUG 21-06-18 11:15:49[http-nio-5000-exec-5] [MainController:16] - Start Main...
+DEBUG 21-06-18 11:15:59[http-nio-5000-exec-6] [MainController:16] - Start Main...
+INFO  21-06-18 11:16:25[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 11:16:25[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 11:16:25[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 11:16:25[restartedMain] [Application:61] - Started Application in 0.279 seconds (JVM running for 439.286)
+DEBUG 21-06-18 11:19:45[http-nio-5000-exec-1] [MainController:16] - Start Main...
+INFO  21-06-18 11:31:25[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 11:31:25[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 11:31:25[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 11:31:25[restartedMain] [Application:61] - Started Application in 0.32 seconds (JVM running for 1339.402)
+INFO  21-06-18 12:03:08[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:03:08[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:03:08[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:03:08[restartedMain] [Application:61] - Started Application in 0.309 seconds (JVM running for 3242.343)
+INFO  21-06-18 12:03:25[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:03:25[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:03:25[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:03:26[restartedMain] [Application:61] - Started Application in 0.299 seconds (JVM running for 3259.463)
+INFO  21-06-18 12:03:54[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:03:54[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:03:54[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:03:54[restartedMain] [Application:61] - Started Application in 0.293 seconds (JVM running for 3287.811)
+INFO  21-06-18 12:05:54[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:05:54[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:05:54[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:05:54[restartedMain] [Application:61] - Started Application in 0.292 seconds (JVM running for 3408.026)
+INFO  21-06-18 12:06:31[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:06:31[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:06:31[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:06:32[restartedMain] [Application:61] - Started Application in 0.299 seconds (JVM running for 3445.469)
+INFO  21-06-18 12:06:38[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:06:38[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:06:38[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:06:38[restartedMain] [Application:61] - Started Application in 0.297 seconds (JVM running for 3452.352)
+INFO  21-06-18 12:09:48[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:09:48[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:09:48[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:09:48[restartedMain] [Application:61] - Started Application in 0.295 seconds (JVM running for 3641.886)
+INFO  21-06-18 12:10:15[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:10:15[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:10:15[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:10:15[restartedMain] [Application:61] - Started Application in 0.298 seconds (JVM running for 3669.161)
+INFO  21-06-18 12:10:19[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:10:19[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:10:19[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:10:19[restartedMain] [Application:61] - Started Application in 0.289 seconds (JVM running for 3672.969)
+INFO  21-06-18 12:10:27[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:10:27[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:10:27[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:10:27[restartedMain] [Application:61] - Started Application in 0.288 seconds (JVM running for 3680.859)
+INFO  21-06-18 12:10:30[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:10:30[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:10:30[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:10:31[restartedMain] [Application:61] - Started Application in 0.34 seconds (JVM running for 3684.724)
+INFO  21-06-18 12:10:37[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:10:37[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:10:37[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:10:38[restartedMain] [Application:61] - Started Application in 0.289 seconds (JVM running for 3691.581)
+INFO  21-06-18 12:10:42[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:10:42[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:10:42[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:10:42[restartedMain] [Application:61] - Started Application in 0.279 seconds (JVM running for 3696.398)
+INFO  21-06-18 12:10:52[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:10:52[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:10:52[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:10:52[restartedMain] [Application:61] - Started Application in 0.284 seconds (JVM running for 3706.317)
+INFO  21-06-18 12:12:07[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 15548 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 12:12:07[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 12:12:07[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 12:12:07[restartedMain] [Application:61] - Started Application in 0.292 seconds (JVM running for 3780.844)
+INFO  21-06-18 13:44:25[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 13980 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 13:44:25[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 13:44:25[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 13:44:26[restartedMain] [Application:61] - Started Application in 1.682 seconds (JVM running for 2.295)
+DEBUG 21-06-18 13:44:42[http-nio-5000-exec-1] [MainController:16] - Start Main...
+INFO  21-06-18 14:43:38[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 13980 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 14:43:38[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 14:43:38[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 14:43:39[restartedMain] [Application:61] - Started Application in 0.322 seconds (JVM running for 3554.935)
+INFO  21-06-18 14:44:05[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 13980 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 14:44:05[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 14:44:05[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 14:44:05[restartedMain] [Application:61] - Started Application in 0.287 seconds (JVM running for 3581.369)
+INFO  21-06-18 14:44:54[restartedMain] [Application:55] - Starting Application using Java 15.0.2 on DESKTOP-AKII9VL with PID 13980 (S:\git\repository\springboot-gradle-project\bin\main started by 중현 in S:\git\repository\springboot-gradle-project)
+DEBUG 21-06-18 14:44:54[restartedMain] [Application:56] - Running with Spring Boot v2.5.0, Spring v5.3.7
+INFO  21-06-18 14:44:54[restartedMain] [Application:667] - The following profiles are active: local
+INFO  21-06-18 14:44:54[restartedMain] [Application:61] - Started Application in 0.274 seconds (JVM running for 3630.234)
